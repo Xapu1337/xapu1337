@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on a discord bot project
 - 💬 Ask me about discord.js or anything react related
-- ⚡ Fun fact: i actually new to programming i started january 2020 with an discord.js project and now im here knowing how to code in JS, JAVA, C#, C
+- ⚡ Fun fact: i actually new to programming i started january 2020 with a discord.js project and now im here with knowledge in JS, JAVA, C#, C
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xapu1337&count_private=true&theme=dark&show_icons=true)
 
