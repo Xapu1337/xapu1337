@@ -4,7 +4,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C24MAB8)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xapu1337&count_private=true&theme=dark&show_icons=true)
+![Github Stats](https://raw.githubusercontent.com/Xapu1337/github-stats/master/generated/overview.svg)
 
 <!--
 **Xapu1337/xapu1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
