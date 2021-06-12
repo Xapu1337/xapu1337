@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a discord bot & a panel
+- 🔭 I’m currently working on a discord bot & a dashboard, And multiple react / Next.JS Projects
 - 🌱 I’m currently learning C++
 - ⚡ Programming expirience: I started january 2020 with javascript in a Discord.JS Project and from there i learned java by making a minecraft server plugin and with java i was able to understand C#, C and the website stuff i learned with React.JS
 
