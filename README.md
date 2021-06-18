@@ -2,9 +2,12 @@
 - 🌱 I’m currently learning C++ & Kotlin
 - ⚡ Programming expirience: I started january 2020 with javascript in a Discord.JS Project and from there i learned java by making a minecraft server plugin and with java i was able to understand C#, C and the website stuff i learned with React.JS
 
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C24MAB8)
 
-![Github Stats](https://raw.githubusercontent.com/Xapu1337/github-stats/master/generated/overview.svg)
+![Github Stats](https://raw.githubusercontent.com/Xapu1337/github-stats/master/generated/overview.svg)  
+
+
 
 ![https://spotify-github-profile.vercel.app/api/view.svg?uid=xapursplaz&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=xapursplaz&cover_image=true&theme=default)
 
