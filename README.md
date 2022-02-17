@@ -5,11 +5,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C24MAB8)
 
-![Github Stats](https://raw.githubusercontent.com/Xapu1337/github-stats/master/generated/overview.svg)  
 
-
-
-![https://spotify-github-profile.vercel.app/api/view.svg?uid=xapursplaz&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=xapursplaz&cover_image=true&theme=default)
 
 <!--
 **Xapu1337/xapu1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
